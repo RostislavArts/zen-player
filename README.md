@@ -16,6 +16,8 @@ Zen Player allows you to play your music tracks while mixing in background noise
 - Simple terminal UI built with [tcell](https://github.com/gdamore/tcell)
 - Audio playback powered by [beep](https://github.com/gopxl/beep)
 
+![Player Screenshot](screenshots/player-screenshot.png)
+
 ## Installation
 1. **Download executable from [releases](https://github.com/RostislavArts/zen-player/releases)**
 
